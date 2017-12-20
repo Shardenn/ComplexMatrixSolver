@@ -1,0 +1,6 @@
+﻿  GivensRotationSolveMethod.cpp
+c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GivensRotationSolveMethod.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2017\Projects\GivensRotationSolveMethod\Debug\GivensRotationSolveMethod.exe
