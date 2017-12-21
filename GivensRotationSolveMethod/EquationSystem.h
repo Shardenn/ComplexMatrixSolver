@@ -1,7 +1,7 @@
 #pragma once
 
 #define TEST_UNIT_VECTOR false
-#define DEBUG_MODE true
+#define DEBUG_MODE false
 
 #include <math.h>
 #include <complex>

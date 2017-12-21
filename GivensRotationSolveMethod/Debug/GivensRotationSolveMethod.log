@@ -3,4 +3,5 @@ c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvem
 c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
 c:\users\андрей\documents\visual studio 2017\projects\givensrotationsolvemethod\givensrotationsolvemethod\equationsystem.h(82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
   GivensRotationSolveMethod.vcxproj -> C:\Users\Андрей\Documents\Visual Studio 2017\Projects\GivensRotationSolveMethod\Debug\GivensRotationSolveMethod.exe
